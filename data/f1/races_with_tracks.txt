@@ -1,0 +1,1149 @@
+2025-12-07	Abu-Dhabi	Yas Marina Circuit
+2025-11-30	Qatar	Lusail International Circuit
+2025-11-23	Las-Vegas	Las Vegas Strip Circuit
+2025-11-09	Brazil	Autódromo José Carlos Pace
+2025-10-26	Mexico	Autódromo Hermanos Rodríguez
+2025-10-19	Usa	Circuit of The Americas
+2025-10-05	Singapore	Marina Bay Street Circuit
+2025-09-21	Azerbaijan	Baku City Circuit
+2025-09-07	Italy	Autodromo Nazionale Monza
+2025-08-31	Netherlands	Circuit Zandvoort
+2025-08-03	Hungary	Hungaroring
+2025-07-27	Belgium	Circuit de Spa-Francorchamps
+2025-07-06	Great-Britain	Silverstone Circuit
+2025-06-29	Austria	Red Bull Ring
+2025-06-15	Canada	Circuit Gilles-Villeneuve
+2025-06-01	Spain	Circuit de Barcelona-Catalunya
+2025-05-25	Monaco	Circuit de Monaco
+2025-05-18	Emilia-Romagna	Autodromo Enzo e Dino Ferrari
+2025-05-04	Miami	Miami International Autodrome
+2025-04-20	Saudi-Arabia	Jeddah Corniche Circuit
+2025-04-13	Bahrain	Bahrain International Circuit
+2025-04-06	Japan	Suzuka International Racing Course
+2025-03-23	China	Shanghai International Circuit
+2025-03-16	Australia	Melbourne Grand Prix Circuit
+2024-12-08	Abu-Dhabi	Yas Marina Circuit
+2024-12-01	Qatar	Lusail International Circuit
+2024-11-23	Las-Vegas	Las Vegas Strip Circuit
+2024-11-03	Brazil	Autódromo José Carlos Pace
+2024-10-27	Mexico	Autódromo Hermanos Rodríguez
+2024-10-20	Usa	Circuit of The Americas
+2024-09-22	Singapore	Marina Bay Street Circuit
+2024-09-15	Azerbaijan	Baku City Circuit
+2024-09-01	Italy	Autodromo Nazionale Monza
+2024-08-25	Netherlands	Circuit Zandvoort
+2024-07-28	Belgium	Circuit de Spa-Francorchamps
+2024-07-21	Hungary	Hungaroring
+2024-07-07	Great-Britain	Silverstone Circuit
+2024-06-30	Austria	Red Bull Ring
+2024-06-23	Spain	Circuit de Barcelona-Catalunya
+2024-06-09	Canada	Circuit Gilles-Villeneuve
+2024-05-26	Monaco	Circuit de Monaco
+2024-05-19	Emilia-Romagna	Autodromo Enzo e Dino Ferrari
+2024-05-05	Miami	Miami International Autodrome
+2024-04-21	China	Shanghai International Circuit
+2024-04-07	Japan	Suzuka International Racing Course
+2024-03-24	Australia	Melbourne Grand Prix Circuit
+2024-03-09	Saudi-Arabia	Jeddah Corniche Circuit
+2024-03-02	Bahrain	Bahrain International Circuit
+2023-11-26	Abu-Dhabi	Yas Marina Circuit
+2023-11-18	Las-Vegas	Las Vegas Strip Circuit
+2023-11-05	Brazil	Autódromo José Carlos Pace
+2023-10-29	Mexico	Autódromo Hermanos Rodríguez
+2023-10-22	Usa	Circuit of The Americas
+2023-10-08	Qatar	Lusail International Circuit
+2023-09-24	Japan	Suzuka International Racing Course
+2023-09-17	Singapore	Marina Bay Street Circuit
+2023-09-03	Italy	Autodromo Nazionale Monza
+2023-08-27	Netherlands	Circuit Zandvoort
+2023-07-30	Belgium	Circuit de Spa-Francorchamps
+2023-07-23	Hungary	Hungaroring
+2023-07-09	Great-Britain	Silverstone Circuit
+2023-07-02	Austria	Red Bull Ring
+2023-06-18	Canada	Circuit Gilles-Villeneuve
+2023-06-04	Spain	Circuit de Barcelona-Catalunya
+2023-05-28	Monaco	Circuit de Monaco
+2023-05-07	Miami	Miami International Autodrome
+2023-04-30	Azerbaijan	Baku City Circuit
+2023-04-02	Australia	Melbourne Grand Prix Circuit
+2023-03-19	Saudi-Arabia	Jeddah Corniche Circuit
+2023-03-05	Bahrain	Bahrain International Circuit
+2022-11-20	Abu-Dhabi	Yas Marina Circuit
+2022-11-13	Brazil	Autódromo José Carlos Pace
+2022-10-30	Mexico	Autódromo Hermanos Rodríguez
+2022-10-23	Usa	Circuit of The Americas
+2022-10-09	Japan	Suzuka International Racing Course
+2022-10-02	Singapore	Marina Bay Street Circuit
+2022-09-11	Italy	Autodromo Nazionale Monza
+2022-09-04	Netherlands	Circuit Zandvoort
+2022-08-28	Belgium	Circuit de Spa-Francorchamps
+2022-07-31	Hungary	Hungaroring
+2022-07-24	France	Circuit Paul Ricard
+2022-07-10	Austria	Red Bull Ring
+2022-07-03	Great-Britain	Silverstone Circuit
+2022-06-19	Canada	Circuit Gilles-Villeneuve
+2022-06-12	Azerbaijan	Baku City Circuit
+2022-05-29	Monaco	Circuit de Monaco
+2022-05-22	Spain	Circuit de Barcelona-Catalunya
+2022-05-08	Miami	Miami International Autodrome
+2022-04-24	Emilia-Romagna	Autodromo Enzo e Dino Ferrari
+2022-04-10	Australia	Melbourne Grand Prix Circuit
+2022-03-27	Saudi-Arabia	Jeddah Corniche Circuit
+2022-03-20	Bahrain	Bahrain International Circuit
+2021-12-12	Abu-Dhabi	Yas Marina Circuit
+2021-12-05	Saudi-Arabia	Jeddah Corniche Circuit
+2021-11-21	Qatar	Lusail International Circuit
+2021-11-14	Brazil	Autódromo José Carlos Pace
+2021-11-07	Mexico	Autódromo Hermanos Rodríguez
+2021-10-24	Usa	Circuit of The Americas
+2021-10-10	Turkey	Intercity Istanbul Park
+2021-09-26	Russia	Sochi Autodrom
+2021-09-12	Italy	Autodromo Nazionale Monza
+2021-09-05	Netherlands	Circuit Zandvoort
+2021-08-29	Belgium	Circuit de Spa-Francorchamps
+2021-08-01	Hungary	Hungaroring
+2021-07-18	Great-Britain	Silverstone Circuit
+2021-07-04	Austria	Red Bull Ring
+2021-06-27	Styria	Red Bull Ring
+2021-06-20	France	Circuit Paul Ricard
+2021-06-06	Azerbaijan	Baku City Circuit
+2021-05-23	Monaco	Circuit de Monaco
+2021-05-09	Spain	Circuit de Barcelona-Catalunya
+2021-05-02	Portugal	Autódromo Internacional do Algarve
+2021-04-18	Emilia-Romagna	Autodromo Enzo e Dino Ferrari
+2021-03-28	Bahrain	Bahrain International Circuit
+2020-12-13	Abu-Dhabi	Yas Marina Circuit
+2020-12-06	Sakhir	Bahrain International Circuit – Outer Track
+2020-11-29	Bahrain	Bahrain International Circuit
+2020-11-15	Turkey	Intercity Istanbul Park
+2020-11-01	Emilia-Romagna	Autodromo Enzo e Dino Ferrari
+2020-10-25	Portugal	Autódromo Internacional do Algarve
+2020-10-11	Eifel	Nürburgring
+2020-09-27	Russia	Sochi Autodrom
+2020-09-13	Tuscany	Mugello
+2020-09-06	Italy	Autodromo Nazionale Monza
+2020-08-30	Belgium	Circuit de Spa-Francorchamps
+2020-08-16	Spain	Circuit de Barcelona-Catalunya
+2020-08-09	70th-Anniversary	Silverstone Circuit
+2020-08-02	Great-Britain	Silverstone Circuit
+2020-07-19	Hungary	Hungaroring
+2020-07-12	Styria	Red Bull Ring
+2020-07-05	Austria	Red Bull Ring
+2019-12-01	Abu-Dhabi	Yas Marina Circuit
+2019-11-17	Brazil	Autódromo José Carlos Pace
+2019-11-03	Usa	Circuit of The Americas
+2019-10-27	Mexico	Autódromo Hermanos Rodríguez
+2019-10-13	Japan	Suzuka International Racing Course
+2019-09-29	Russia	Sochi Autodrom
+2019-09-22	Singapore	Marina Bay Street Circuit
+2019-09-08	Italy	Autodromo Nazionale Monza
+2019-09-01	Belgium	Circuit de Spa-Francorchamps
+2019-08-04	Hungary	Hungaroring
+2019-07-28	Germany	Hockenheimring
+2019-07-14	Great-Britain	Silverstone Circuit
+2019-06-30	Austria	Red Bull Ring
+2019-06-23	France	Circuit Paul Ricard
+2019-06-09	Canada	Circuit Gilles-Villeneuve
+2019-05-26	Monaco	Circuit de Monaco
+2019-05-12	Spain	Circuit de Barcelona-Catalunya
+2019-04-28	Azerbaijan	Baku City Circuit
+2019-04-14	China	Shanghai International Circuit
+2019-03-31	Bahrain	Bahrain International Circuit
+2019-03-17	Australia	Melbourne Grand Prix Circuit
+2018-11-25	Abu-Dhabi	Yas Marina Circuit
+2018-11-11	Brazil	Autódromo José Carlos Pace
+2018-10-28	Mexico	Autódromo Hermanos Rodríguez
+2018-10-21	Usa	Circuit of The Americas
+2018-10-07	Japan	Suzuka International Racing Course
+2018-09-30	Russia	Sochi Autodrom
+2018-09-16	Singapore	Marina Bay Street Circuit
+2018-09-02	Italy	Autodromo Nazionale Monza
+2018-08-26	Belgium	Circuit de Spa-Francorchamps
+2018-07-29	Hungary	Hungaroring
+2018-07-22	Germany	Hockenheimring
+2018-07-08	Great-Britain	Silverstone Circuit
+2018-07-01	Austria	Red Bull Ring
+2018-06-24	France	Circuit Paul Ricard
+2018-06-10	Canada	Circuit Gilles-Villeneuve
+2018-05-27	Monaco	Circuit de Monaco
+2018-05-13	Spain	Circuit de Barcelona-Catalunya
+2018-04-29	Azerbaijan	Baku City Circuit
+2018-04-15	China	Shanghai International Circuit
+2018-04-08	Bahrain	Bahrain International Circuit
+2018-03-25	Australia	Melbourne Grand Prix Circuit
+2017-11-26	Abu-Dhabi	Yas Marina Circuit
+2017-11-12	Brazil	Autódromo José Carlos Pace
+2017-10-29	Mexico	Autódromo Hermanos Rodríguez
+2017-10-22	Usa	Circuit of The Americas
+2017-10-08	Japan	Suzuka International Racing Course
+2017-10-01	Malaysia	Sepang International Circuit
+2017-09-17	Singapore	Marina Bay Street Circuit
+2017-09-03	Italy	Autodromo Nazionale Monza
+2017-08-27	Belgium	Circuit de Spa-Francorchamps
+2017-07-30	Hungary	Hungaroring
+2017-07-16	Great-Britain	Silverstone Circuit
+2017-07-09	Austria	Red Bull Ring
+2017-06-25	Azerbaijan	Baku City Circuit
+2017-06-11	Canada	Circuit Gilles-Villeneuve
+2017-05-28	Monaco	Circuit de Monaco
+2017-05-14	Spain	Circuit de Barcelona-Catalunya
+2017-04-30	Russia	Sochi Autodrom
+2017-04-16	Bahrain	Bahrain International Circuit
+2017-04-09	China	Shanghai International Circuit
+2017-03-26	Australia	Melbourne Grand Prix Circuit
+2016-11-27	Abu-Dhabi	Yas Marina Circuit
+2016-11-13	Brazil	Autódromo José Carlos Pace
+2016-10-30	Mexico	Autódromo Hermanos Rodríguez
+2016-10-23	Usa	Circuit of The Americas
+2016-10-09	Japan	Suzuka International Racing Course
+2016-10-02	Malaysia	Sepang International Circuit
+2016-09-18	Singapore	Marina Bay Street Circuit
+2016-09-04	Italy	Autodromo Nazionale Monza
+2016-08-28	Belgium	Circuit de Spa-Francorchamps
+2016-07-31	Germany	Hockenheimring
+2016-07-24	Hungary	Hungaroring
+2016-07-10	Great-Britain	Silverstone Circuit
+2016-07-03	Austria	Red Bull Ring
+2016-06-19	Europe	Baku City Circuit
+2016-06-12	Canada	Circuit Gilles-Villeneuve
+2016-05-29	Monaco	Circuit de Monaco
+2016-05-15	Spain	Circuit de Barcelona-Catalunya
+2016-05-01	Russia	Sochi Autodrom
+2016-04-17	China	Shanghai International Circuit
+2016-04-03	Bahrain	Bahrain International Circuit
+2016-03-20	Australia	Melbourne Grand Prix Circuit
+2015-11-29	Abu-Dhabi	Yas Marina Circuit
+2015-11-15	Brazil	Autódromo José Carlos Pace
+2015-11-01	Mexico	Autódromo Hermanos Rodríguez
+2015-10-25	Usa	Circuit of The Americas
+2015-10-11	Russia	Sochi Autodrom
+2015-09-27	Japan	Suzuka International Racing Course
+2015-09-20	Singapore	Marina Bay Street Circuit
+2015-09-06	Italy	Autodromo Nazionale Monza
+2015-08-23	Belgium	Circuit de Spa-Francorchamps
+2015-07-26	Hungary	Hungaroring
+2015-07-05	Great-Britain	Silverstone Circuit
+2015-06-21	Austria	Red Bull Ring
+2015-06-07	Canada	Circuit Gilles-Villeneuve
+2015-05-24	Monaco	Circuit de Monaco
+2015-05-10	Spain	Circuit de Barcelona-Catalunya
+2015-04-19	Bahrain	Bahrain International Circuit
+2015-04-12	China	Shanghai International Circuit
+2015-03-29	Malaysia	Sepang International Circuit
+2015-03-15	Australia	Melbourne Grand Prix Circuit
+2014-11-23	Abu-Dhabi	Yas Marina Circuit
+2014-11-09	Brazil	Autódromo José Carlos Pace
+2014-11-02	Usa	Circuit of The Americas
+2014-10-12	Russia	Sochi Autodrom
+2014-10-05	Japan	Suzuka International Racing Course
+2014-09-21	Singapore	Marina Bay Street Circuit
+2014-09-07	Italy	Autodromo Nazionale Monza
+2014-08-24	Belgium	Circuit de Spa-Francorchamps
+2014-07-27	Hungary	Hungaroring
+2014-07-20	Germany	Hockenheimring
+2014-07-06	Great-Britain	Silverstone Circuit
+2014-06-22	Austria	Red Bull Ring
+2014-06-08	Canada	Circuit Gilles-Villeneuve
+2014-05-25	Monaco	Circuit de Monaco
+2014-05-11	Spain	Circuit de Barcelona-Catalunya
+2014-04-20	China	Shanghai International Circuit
+2014-04-06	Bahrain	Bahrain International Circuit
+2014-03-30	Malaysia	Sepang International Circuit
+2014-03-16	Australia	Melbourne Grand Prix Circuit
+2013-11-24	Brazil	Autódromo José Carlos Pace
+2013-11-17	Usa	Circuit of The Americas
+2013-11-03	Abu-Dhabi	Yas Marina Circuit
+2013-10-27	India	Buddh International Circuit
+2013-10-13	Japan	Suzuka International Racing Course
+2013-10-06	South-Korea	Korean International Circuit
+2013-09-22	Singapore	Marina Bay Street Circuit
+2013-09-08	Italy	Autodromo Nazionale Monza
+2013-08-25	Belgium	Circuit de Spa-Francorchamps
+2013-07-28	Hungary	Hungaroring
+2013-07-07	Germany	Nürburgring
+2013-06-30	Great-Britain	Silverstone Circuit
+2013-06-09	Canada	Circuit Gilles-Villeneuve
+2013-05-26	Monaco	Circuit de Monaco
+2013-05-12	Spain	Circuit de Barcelona-Catalunya
+2013-04-21	Bahrain	Bahrain International Circuit
+2013-04-14	China	Shanghai International Circuit
+2013-03-24	Malaysia	Sepang International Circuit
+2013-03-17	Australia	Melbourne Grand Prix Circuit
+2012-11-25	Brazil	Autódromo José Carlos Pace
+2012-11-18	Usa	Circuit of The Americas
+2012-11-04	Abu-Dhabi	Yas Marina Circuit
+2012-10-28	India	Buddh International Circuit
+2012-10-14	South-Korea	Korean International Circuit
+2012-10-07	Japan	Suzuka International Racing Course
+2012-09-23	Singapore	Marina Bay Street Circuit
+2012-09-09	Italy	Autodromo Nazionale Monza
+2012-09-02	Belgium	Circuit de Spa-Francorchamps
+2012-07-29	Hungary	Hungaroring
+2012-07-22	Germany	Hockenheimring
+2012-07-08	Great-Britain	Silverstone Circuit
+2012-06-24	Europe	Valencia Street Circuit
+2012-06-10	Canada	Circuit Gilles-Villeneuve
+2012-05-27	Monaco	Circuit de Monaco
+2012-05-13	Spain	Circuit de Catalunya
+2012-04-22	Bahrain	Bahrain International Circuit
+2012-04-15	China	Shanghai International Circuit
+2012-03-25	Malaysia	Sepang International Circuit
+2012-03-18	Australia	Melbourne Grand Prix Circuit
+2011-11-27	Brazil	Autódromo José Carlos Pace
+2011-11-13	Abu-Dhabi	Yas Marina Circuit
+2011-10-30	India	Buddh International Circuit
+2011-10-16	South-Korea	Korean International Circuit
+2011-10-09	Japan	Suzuka International Racing Course
+2011-09-25	Singapore	Marina Bay Street Circuit
+2011-09-11	Italy	Autodromo Nazionale Monza
+2011-08-28	Belgium	Circuit de Spa-Francorchamps
+2011-07-31	Hungary	Hungaroring
+2011-07-24	Germany	Nürburgring
+2011-07-10	Great-Britain	Silverstone Circuit
+2011-06-26	Europe	Valencia Street Circuit
+2011-06-12	Canada	Circuit Gilles-Villeneuve
+2011-05-29	Monaco	Circuit de Monaco
+2011-05-22	Spain	Circuit de Catalunya
+2011-05-08	Turkey	Istanbul Park
+2011-04-17	China	Shanghai International Circuit
+2011-04-10	Malaysia	Sepang International Circuit
+2011-03-27	Australia	Melbourne Grand Prix Circuit
+2010-11-14	Abu-Dhabi	Yas Marina Circuit
+2010-11-07	Brazil	Autódromo José Carlos Pace
+2010-10-24	South-Korea	Korean International Circuit
+2010-10-10	Japan	Suzuka International Racing Course
+2010-09-26	Singapore	Marina Bay Street Circuit
+2010-09-12	Italy	Autodromo Nazionale Monza
+2010-08-29	Belgium	Circuit de Spa-Francorchamps
+2010-08-01	Hungary	Hungaroring
+2010-07-25	Germany	Hockenheimring
+2010-07-11	Great-Britain	Silverstone Circuit
+2010-06-27	Europe	Valencia Street Circuit
+2010-06-13	Canada	Circuit Gilles-Villeneuve
+2010-05-30	Turkey	Istanbul Park
+2010-05-16	Monaco	Circuit de Monaco
+2010-05-09	Spain	Circuit de Catalunya
+2010-04-18	China	Shanghai International Circuit
+2010-04-04	Malaysia	Sepang International Circuit
+2010-03-28	Australia	Melbourne Grand Prix Circuit
+2010-03-14	Bahrain	Bahrain International Circuit
+2009-11-01	Abu-Dhabi	Yas Marina Circuit
+2009-10-18	Brazil	Autódromo José Carlos Pace
+2009-10-04	Japan	Suzuka International Racing Course
+2009-09-27	Singapore	Marina Bay Street Circuit
+2009-09-13	Italy	Autodromo Nazionale Monza
+2009-08-30	Belgium	Circuit de Spa-Francorchamps
+2009-08-23	Europe	Valencia Street Circuit
+2009-07-26	Hungary	Hungaroring
+2009-07-12	Germany	Nürburgring
+2009-06-21	Great-Britain	Silverstone Circuit
+2009-06-07	Turkey	Istanbul Park
+2009-05-24	Monaco	Circuit de Monaco
+2009-05-10	Spain	Circuit de Catalunya
+2009-04-26	Bahrain	Bahrain International Circuit
+2009-04-19	China	Shanghai International Circuit
+2009-04-05	Malaysia	Sepang International Circuit
+2009-03-29	Australia	Melbourne Grand Prix Circuit
+2008-11-02	Brazil	Autódromo José Carlos Pace
+2008-10-19	China	Shanghai International Circuit
+2008-10-12	Japan	Fuji Speedway
+2008-09-28	Singapore	Marina Bay Street Circuit
+2008-09-14	Italy	Autodromo Nazionale Monza
+2008-09-07	Belgium	Circuit de Spa-Francorchamps
+2008-08-24	Europe	Valencia Street Circuit
+2008-08-03	Hungary	Hungaroring
+2008-07-20	Germany	Hockenheimring
+2008-07-06	Great-Britain	Silverstone Circuit
+2008-06-22	France	Circuit de Nevers Magny-Cours
+2008-06-08	Canada	Circuit Gilles-Villeneuve
+2008-05-25	Monaco	Circuit de Monaco
+2008-05-11	Turkey	Istanbul Park
+2008-04-27	Spain	Circuit de Catalunya
+2008-04-06	Bahrain	Bahrain International Circuit
+2008-03-23	Malaysia	Sepang International Circuit
+2008-03-16	Australia	Melbourne Grand Prix Circuit
+2007-10-21	Brazil	Autódromo José Carlos Pace
+2007-10-07	China	Shanghai International Circuit
+2007-09-30	Japan	Fuji Speedway
+2007-09-16	Belgium	Circuit de Spa-Francorchamps
+2007-09-09	Italy	Autodromo Nazionale Monza
+2007-08-26	Turkey	Istanbul Park
+2007-08-05	Hungary	Hungaroring
+2007-07-22	Europe	Nürburgring
+2007-07-08	Great-Britain	Silverstone Circuit
+2007-07-01	France	Circuit de Nevers Magny-Cours
+2007-06-17	Usa	Indianapolis Motor Speedway
+2007-06-10	Canada	Circuit Gilles-Villeneuve
+2007-05-27	Monaco	Circuit de Monaco
+2007-05-13	Spain	Circuit de Catalunya
+2007-04-15	Bahrain	Bahrain International Circuit
+2007-04-08	Malaysia	Sepang International Circuit
+2007-03-18	Australia	Melbourne Grand Prix Circuit
+2006-10-22	Brazil	Autódromo José Carlos Pace
+2006-10-08	Japan	Suzuka International Racing Course
+2006-10-01	China	Shanghai International Circuit
+2006-09-10	Italy	Autodromo Nazionale Monza
+2006-08-27	Turkey	Istanbul Park
+2006-08-06	Hungary	Hungaroring
+2006-07-30	Germany	Hockenheimring
+2006-07-16	France	Circuit de Nevers Magny-Cours
+2006-07-02	Usa	Indianapolis Motor Speedway
+2006-06-25	Canada	Circuit Gilles-Villeneuve
+2006-06-11	Great-Britain	Silverstone Circuit
+2006-05-28	Monaco	Circuit de Monaco
+2006-05-14	Spain	Circuit de Catalunya
+2006-05-07	Europe	Nürburgring
+2006-04-23	San-Marino	Autodromo Enzo e Dino Ferrari
+2006-04-02	Australia	Melbourne Grand Prix Circuit
+2006-03-19	Malaysia	Sepang International Circuit
+2006-03-12	Bahrain	Bahrain International Circuit
+2005-10-16	China	Shanghai International Circuit
+2005-10-09	Japan	Suzuka International Racing Course
+2005-09-25	Brazil	Autódromo José Carlos Pace
+2005-09-11	Belgium	Circuit de Spa-Francorchamps
+2005-09-04	Italy	Autodromo Nazionale Monza
+2005-08-21	Turkey	Istanbul Park
+2005-07-31	Hungary	Hungaroring
+2005-07-24	Germany	Hockenheimring
+2005-07-10	Great-Britain	Silverstone Circuit
+2005-07-03	France	Circuit de Nevers Magny-Cours
+2005-06-19	Usa	Indianapolis Motor Speedway
+2005-06-12	Canada	Circuit Gilles-Villeneuve
+2005-05-29	Europe	Nürburgring
+2005-05-22	Monaco	Circuit de Monaco
+2005-05-08	Spain	Circuit de Catalunya
+2005-04-24	San-Marino	Autodromo Enzo e Dino Ferrari
+2005-04-03	Bahrain	Bahrain International Circuit
+2005-03-20	Malaysia	Sepang International Circuit
+2005-03-06	Australia	Melbourne Grand Prix Circuit
+2004-10-24	Brazil	Autódromo José Carlos Pace
+2004-10-10	Japan	Suzuka International Racing Course
+2004-09-26	China	Shanghai International Circuit
+2004-09-12	Italy	Autodromo Nazionale Monza
+2004-08-29	Belgium	Circuit de Spa-Francorchamps
+2004-08-15	Hungary	Hungaroring
+2004-07-25	Germany	Hockenheimring
+2004-07-11	Great-Britain	Silverstone Circuit
+2004-07-04	France	Circuit de Nevers Magny-Cours
+2004-06-20	Usa	Indianapolis Motor Speedway
+2004-06-13	Canada	Circuit Gilles-Villeneuve
+2004-05-30	Europe	Nürburgring
+2004-05-23	Monaco	Circuit de Monaco
+2004-05-09	Spain	Circuit de Catalunya
+2004-04-25	San-Marino	Autodromo Enzo e Dino Ferrari
+2004-04-04	Bahrain	Bahrain International Circuit
+2004-03-21	Malaysia	Sepang International Circuit
+2004-03-07	Australia	Melbourne Grand Prix Circuit
+2003-10-12	Japan	Suzuka International Racing Course
+2003-09-28	Usa	Indianapolis Motor Speedway
+2003-09-14	Italy	Autodromo Nazionale Monza
+2003-08-24	Hungary	Hungaroring
+2003-08-03	Germany	Hockenheimring
+2003-07-20	Great-Britain	Silverstone Circuit
+2003-07-06	France	Circuit de Nevers Magny-Cours
+2003-06-29	Europe	Nürburgring
+2003-06-15	Canada	Circuit Gilles-Villeneuve
+2003-06-01	Monaco	Circuit de Monaco
+2003-05-18	Austria	A1-Ring
+2003-05-04	Spain	Circuit de Catalunya
+2003-04-20	San-Marino	Autodromo Enzo e Dino Ferrari
+2003-04-06	Brazil	Autódromo José Carlos Pace
+2003-03-23	Malaysia	Sepang International Circuit
+2003-03-09	Australia	Melbourne Grand Prix Circuit
+2002-10-13	Japan	Suzuka International Racing Course
+2002-09-29	Usa	Indianapolis Motor Speedway
+2002-09-15	Italy	Autodromo Nazionale Monza
+2002-09-01	Belgium	Circuit de Spa-Francorchamps
+2002-08-18	Hungary	Hungaroring
+2002-07-28	Germany	Hockenheimring
+2002-07-21	France	Circuit de Nevers Magny-Cours
+2002-07-07	Great-Britain	Silverstone Circuit
+2002-06-23	Europe	Nürburgring
+2002-06-09	Canada	Circuit Gilles-Villeneuve
+2002-05-26	Monaco	Circuit de Monaco
+2002-05-12	Austria	A1-Ring
+2002-04-28	Spain	Circuit de Catalunya
+2002-04-14	San-Marino	Autodromo Enzo e Dino Ferrari
+2002-03-31	Brazil	Autódromo José Carlos Pace
+2002-03-17	Malaysia	Sepang International Circuit
+2002-03-03	Australia	Melbourne Grand Prix Circuit
+2001-10-14	Japan	Suzuka International Racing Course
+2001-09-30	Usa	Indianapolis Motor Speedway
+2001-09-16	Italy	Autodromo Nazionale Monza
+2001-09-02	Belgium	Circuit de Spa-Francorchamps
+2001-08-19	Hungary	Hungaroring
+2001-07-29	Germany	Hockenheimring
+2001-07-15	Great-Britain	Silverstone Circuit
+2001-07-01	France	Circuit de Nevers Magny-Cours
+2001-06-24	Europe	Nürburgring
+2001-06-10	Canada	Circuit Gilles-Villeneuve
+2001-05-27	Monaco	Circuit de Monaco
+2001-05-13	Austria	A1-Ring
+2001-04-29	Spain	Circuit de Catalunya
+2001-04-15	San-Marino	Autodromo Enzo e Dino Ferrari
+2001-04-01	Brazil	Autódromo José Carlos Pace
+2001-03-18	Malaysia	Sepang International Circuit
+2001-03-04	Australia	Melbourne Grand Prix Circuit
+2000-10-22	Malaysia	Sepang International Circuit
+2000-10-08	Japan	Suzuka International Racing Course
+2000-09-24	Usa	Indianapolis Motor Speedway
+2000-09-10	Italy	Autodromo Nazionale Monza
+2000-08-27	Belgium	Circuit de Spa-Francorchamps
+2000-08-13	Hungary	Hungaroring
+2000-07-30	Germany	Hockenheimring
+2000-07-16	Austria	A1-Ring
+2000-07-02	France	Circuit de Nevers Magny-Cours
+2000-06-18	Canada	Circuit Gilles-Villeneuve
+2000-06-04	Monaco	Circuit de Monaco
+2000-05-21	Europe	Nürburgring
+2000-05-07	Spain	Circuit de Catalunya
+2000-04-23	Great-Britain	Silverstone Circuit
+2000-04-09	San-Marino	Autodromo Enzo e Dino Ferrari
+2000-03-26	Brazil	Autódromo José Carlos Pace
+2000-03-12	Australia	Melbourne Grand Prix Circuit
+1999-10-31	Japan	Suzuka International Racing Course
+1999-10-17	Malaysia	Sepang International Circuit
+1999-09-26	Europe	Nürburgring
+1999-09-12	Italy	Autodromo Nazionale Monza
+1999-08-29	Belgium	Circuit de Spa-Francorchamps
+1999-08-15	Hungary	Hungaroring
+1999-08-01	Germany	Hockenheimring
+1999-07-25	Austria	A1-Ring
+1999-07-11	Great-Britain	Silverstone Circuit
+1999-06-27	France	Circuit de Nevers Magny-Cours
+1999-06-13	Canada	Circuit Gilles-Villeneuve
+1999-05-30	Spain	Circuit de Catalunya
+1999-05-16	Monaco	Circuit de Monaco
+1999-05-02	San-Marino	Autodromo Enzo e Dino Ferrari
+1999-04-11	Brazil	Autódromo José Carlos Pace
+1999-03-07	Australia	Melbourne Grand Prix Circuit
+1998-11-01	Japan	Suzuka International Racing Course
+1998-09-27	Luxembourg	Nürburgring
+1998-09-13	Italy	Autodromo Nazionale Monza
+1998-08-30	Belgium	Circuit de Spa-Francorchamps
+1998-08-16	Hungary	Hungaroring
+1998-08-02	Germany	Hockenheimring
+1998-07-26	Austria	A1-Ring
+1998-07-12	Great-Britain	Silverstone Circuit
+1998-06-28	France	Circuit de Nevers Magny-Cours
+1998-06-07	Canada	Circuit Gilles-Villeneuve
+1998-05-24	Monaco	Circuit de Monaco
+1998-05-10	Spain	Circuit de Catalunya
+1998-04-26	San-Marino	Autodromo Enzo e Dino Ferrari
+1998-04-12	Argentina	Autódromo Juan y Oscar Gálvez
+1998-03-29	Brazil	Autódromo José Carlos Pace
+1998-03-08	Australia	Melbourne Grand Prix Circuit
+1997-10-26	Europe	Circuito Permanente de Jerez
+1997-10-12	Japan	Suzuka International Racing Course
+1997-09-28	Luxembourg	Nürburgring
+1997-09-21	Austria	A1-Ring
+1997-09-07	Italy	Autodromo Nazionale Monza
+1997-08-24	Belgium	Circuit de Spa-Francorchamps
+1997-08-10	Hungary	Hungaroring
+1997-07-27	Germany	Hockenheimring
+1997-07-13	Great-Britain	Silverstone Circuit
+1997-06-29	France	Circuit de Nevers Magny-Cours
+1997-06-15	Canada	Circuit Gilles-Villeneuve
+1997-05-25	Spain	Circuit de Catalunya
+1997-05-11	Monaco	Circuit de Monaco
+1997-04-27	San-Marino	Autodromo Enzo e Dino Ferrari
+1997-04-13	Argentina	Autódromo Juan y Oscar Gálvez
+1997-03-30	Brazil	Autódromo José Carlos Pace
+1997-03-09	Australia	Melbourne Grand Prix Circuit
+1996-10-13	Japan	Suzuka International Racing Course
+1996-09-22	Portugal	Autódromo do Estoril
+1996-09-08	Italy	Autodromo Nazionale Monza
+1996-08-25	Belgium	Circuit de Spa-Francorchamps
+1996-08-11	Hungary	Hungaroring
+1996-07-28	Germany	Hockenheimring
+1996-07-14	Great-Britain	Silverstone Circuit
+1996-06-30	France	Circuit de Nevers Magny-Cours
+1996-06-16	Canada	Circuit Gilles-Villeneuve
+1996-06-02	Spain	Circuit de Catalunya
+1996-05-19	Monaco	Circuit de Monaco
+1996-05-05	San-Marino	Autodromo Enzo e Dino Ferrari
+1996-04-28	Europe	Nürburgring
+1996-04-07	Argentina	Autódromo Juan y Oscar Gálvez
+1996-03-31	Brazil	Autódromo José Carlos Pace
+1996-03-10	Australia	Melbourne Grand Prix Circuit
+1995-11-12	Australia	Adelaide Street Circuit
+1995-10-29	Japan	Suzuka International Racing Course
+1995-10-22	Pacific	TI Circuit Aida
+1995-10-01	Europe	Nürburgring
+1995-09-24	Portugal	Autódromo do Estoril
+1995-09-10	Italy	Autodromo Nazionale Monza
+1995-08-27	Belgium	Circuit de Spa-Francorchamps
+1995-08-13	Hungary	Hungaroring
+1995-07-30	Germany	Hockenheimring
+1995-07-16	Great-Britain	Silverstone Circuit
+1995-07-02	France	Circuit de Nevers Magny-Cours
+1995-06-11	Canada	Circuit Gilles-Villeneuve
+1995-05-28	Monaco	Circuit de Monaco
+1995-05-14	Spain	Circuit de Catalunya
+1995-04-30	San-Marino	Autodromo Enzo e Dino Ferrari
+1995-04-09	Argentina	Autódromo Juan y Oscar Gálvez
+1995-03-26	Brazil	Autódromo José Carlos Pace
+1994-11-13	Australia	Adelaide Street Circuit
+1994-11-06	Japan	Suzuka International Racing Course
+1994-10-16	Europe	Circuito Permanente de Jerez
+1994-09-25	Portugal	Autódromo do Estoril
+1994-09-11	Italy	Autodromo Nazionale Monza
+1994-08-28	Belgium	Circuit de Spa-Francorchamps
+1994-08-14	Hungary	Hungaroring
+1994-07-31	Germany	Hockenheimring
+1994-07-10	Great-Britain	Silverstone Circuit
+1994-07-03	France	Circuit de Nevers Magny-Cours
+1994-06-12	Canada	Circuit Gilles-Villeneuve
+1994-05-29	Spain	Circuit de Catalunya
+1994-05-15	Monaco	Circuit de Monaco
+1994-05-01	San-Marino	Autodromo Enzo e Dino Ferrari
+1994-04-17	Pacific	TI Circuit Aida
+1994-03-27	Brazil	Autódromo José Carlos Pace
+1993-11-07	Australia	Adelaide Street Circuit
+1993-10-24	Japan	Suzuka International Racing Course
+1993-09-26	Portugal	Autódromo do Estoril
+1993-09-12	Italy	Autodromo Nazionale Monza
+1993-08-29	Belgium	Circuit de Spa-Francorchamps
+1993-08-15	Hungary	Hungaroring
+1993-07-25	Germany	Hockenheimring
+1993-07-11	Great-Britain	Silverstone Circuit
+1993-07-04	France	Circuit de Nevers Magny-Cours
+1993-06-13	Canada	Circuit Gilles-Villeneuve
+1993-05-23	Monaco	Circuit de Monaco
+1993-05-09	Spain	Circuit de Catalunya
+1993-04-25	San-Marino	Autodromo Enzo e Dino Ferrari
+1993-04-11	Europe	Donington Park
+1993-03-28	Brazil	Autódromo José Carlos Pace
+1993-03-14	South-Africa	Kyalami Grand Prix Circuit
+1992-11-08	Australia	Adelaide Street Circuit
+1992-10-25	Japan	Suzuka International Racing Course
+1992-09-27	Portugal	Autódromo do Estoril
+1992-09-13	Italy	Autodromo Nazionale Monza
+1992-08-30	Belgium	Circuit de Spa-Francorchamps
+1992-08-16	Hungary	Hungaroring
+1992-07-26	Germany	Hockenheimring
+1992-07-12	Great-Britain	Silverstone Circuit
+1992-07-05	France	Circuit de Nevers Magny-Cours
+1992-06-14	Canada	Circuit Gilles-Villeneuve
+1992-05-31	Monaco	Circuit de Monaco
+1992-05-17	San-Marino	Autodromo Enzo e Dino Ferrari
+1992-05-03	Spain	Circuit de Catalunya
+1992-04-05	Brazil	Autódromo José Carlos Pace
+1992-03-22	Mexico	Autódromo Hermanos Rodríguez
+1992-03-01	South-Africa	Kyalami Grand Prix Circuit
+1991-11-03	Australia	Adelaide Street Circuit
+1991-10-20	Japan	Suzuka International Racing Course
+1991-09-29	Spain	Circuit de Catalunya
+1991-09-22	Portugal	Autódromo do Estoril
+1991-09-08	Italy	Autodromo Nazionale Monza
+1991-08-25	Belgium	Circuit de Spa-Francorchamps
+1991-08-11	Hungary	Hungaroring
+1991-07-28	Germany	Hockenheimring
+1991-07-14	Great-Britain	Silverstone Circuit
+1991-07-07	France	Circuit de Nevers Magny-Cours
+1991-06-16	Mexico	Autódromo Hermanos Rodríguez
+1991-06-02	Canada	Circuit Gilles-Villeneuve
+1991-05-12	Monaco	Circuit de Monaco
+1991-04-28	San-Marino	Autodromo Enzo e Dino Ferrari
+1991-03-24	Brazil	Autódromo José Carlos Pace
+1991-03-10	Usa	Phoenix Street Circuit
+1990-11-04	Australia	Adelaide Street Circuit
+1990-10-21	Japan	Suzuka International Racing Course
+1990-09-30	Spain	Circuito Permanente de Jerez
+1990-09-23	Portugal	Autódromo do Estoril
+1990-09-09	Italy	Autodromo Nazionale Monza
+1990-08-26	Belgium	Circuit de Spa-Francorchamps
+1990-08-12	Hungary	Hungaroring
+1990-07-29	Germany	Hockenheimring
+1990-07-15	Great-Britain	Silverstone Circuit
+1990-07-08	France	Circuit Paul Ricard
+1990-06-24	Mexico	Autódromo Hermanos Rodríguez
+1990-06-10	Canada	Circuit Gilles-Villeneuve
+1990-05-27	Monaco	Circuit de Monaco
+1990-05-13	San-Marino	Autodromo Enzo e Dino Ferrari
+1990-03-25	Brazil	Autódromo José Carlos Pace
+1990-03-11	Usa	Phoenix Street Circuit
+1989-11-05	Australia	Adelaide Street Circuit
+1989-10-22	Japan	Suzuka International Racing Course
+1989-10-01	Spain	Circuito Permanente de Jerez
+1989-09-24	Portugal	Autódromo do Estoril
+1989-09-10	Italy	Autodromo Nazionale Monza
+1989-08-27	Belgium	Circuit de Spa-Francorchamps
+1989-08-13	Hungary	Hungaroring
+1989-07-30	Germany	Hockenheimring
+1989-07-16	Great-Britain	Silverstone Circuit
+1989-07-09	France	Circuit Paul Ricard
+1989-06-18	Canada	Circuit Gilles-Villeneuve
+1989-06-04	Usa	Phoenix Street Circuit
+1989-05-28	Mexico	Autódromo Hermanos Rodríguez
+1989-05-07	Monaco	Circuit de Monaco
+1989-04-23	San-Marino	Autodromo Enzo e Dino Ferrari
+1989-03-26	Brazil	Autódromo Internacional do Rio de Janeiro
+1988-11-13	Australia	Adelaide Street Circuit
+1988-10-30	Japan	Suzuka International Racing Course
+1988-10-02	Spain	Circuito Permanente de Jerez
+1988-09-25	Portugal	Autódromo do Estoril
+1988-09-11	Italy	Autodromo Nazionale Monza
+1988-08-28	Belgium	Circuit de Spa-Francorchamps
+1988-08-07	Hungary	Hungaroring
+1988-07-24	Germany	Hockenheimring
+1988-07-10	Great-Britain	Silverstone Circuit
+1988-07-03	France	Circuit Paul Ricard
+1988-06-19	Detroit	Detroit Street Circuit
+1988-06-12	Canada	Circuit Gilles-Villeneuve
+1988-05-29	Mexico	Autódromo Hermanos Rodríguez
+1988-05-15	Monaco	Circuit de Monaco
+1988-05-01	San-Marino	Autodromo Enzo e Dino Ferrari
+1988-04-03	Brazil	Autódromo Internacional do Rio de Janeiro
+1987-11-15	Australia	Adelaide Street Circuit
+1987-11-01	Japan	Suzuka International Racing Course
+1987-10-18	Mexico	Autódromo Hermanos Rodríguez
+1987-09-27	Spain	Circuito Permanente de Jerez
+1987-09-20	Portugal	Autódromo do Estoril
+1987-09-06	Italy	Autodromo Nazionale Monza
+1987-08-16	Austria	Österreichring
+1987-08-09	Hungary	Hungaroring
+1987-07-26	Germany	Hockenheimring
+1987-07-12	Great-Britain	Silverstone Circuit
+1987-07-05	France	Circuit Paul Ricard
+1987-06-21	Detroit	Detroit Street Circuit
+1987-05-31	Monaco	Circuit de Monaco
+1987-05-17	Belgium	Circuit de Spa-Francorchamps
+1987-05-03	San-Marino	Autodromo Dino Ferrari
+1987-04-12	Brazil	Autódromo Internacional do Rio de Janeiro
+1986-10-26	Australia	Adelaide Street Circuit
+1986-10-12	Mexico	Autódromo Hermanos Rodríguez
+1986-09-21	Portugal	Autódromo do Estoril
+1986-09-07	Italy	Autodromo Nazionale Monza
+1986-08-17	Austria	Österreichring
+1986-08-10	Hungary	Hungaroring
+1986-07-27	Germany	Hockenheimring
+1986-07-13	Great-Britain	Brands Hatch Circuit
+1986-07-06	France	Circuit Paul Ricard
+1986-06-22	Detroit	Detroit Street Circuit
+1986-06-15	Canada	Circuit Gilles-Villeneuve
+1986-05-25	Belgium	Circuit de Spa-Francorchamps
+1986-05-11	Monaco	Circuit de Monaco
+1986-04-27	San-Marino	Autodromo Dino Ferrari
+1986-04-13	Spain	Circuito Permanente de Jerez
+1986-03-23	Brazil	Autódromo Internacional do Rio de Janeiro
+1985-11-03	Australia	Adelaide Street Circuit
+1985-10-19	South-Africa	Kyalami Grand Prix Circuit
+1985-10-06	Europe	Brands Hatch Circuit
+1985-09-15	Belgium	Circuit de Spa-Francorchamps
+1985-09-08	Italy	Autodromo Nazionale Monza
+1985-08-25	Netherlands	Circuit Park Zandvoort
+1985-08-18	Austria	Österreichring
+1985-08-04	Germany	Nürburgring
+1985-07-21	Great-Britain	Silverstone Circuit
+1985-07-07	France	Circuit Paul Ricard
+1985-06-23	Detroit	Detroit Street Circuit
+1985-06-16	Canada	Circuit Gilles-Villeneuve
+1985-05-19	Monaco	Circuit de Monaco
+1985-05-05	San-Marino	Autodromo Dino Ferrari
+1985-04-21	Portugal	Autódromo do Estoril
+1985-04-07	Brazil	Autódromo Internacional do Rio de Janeiro
+1984-10-21	Portugal	Autódromo do Estoril
+1984-10-07	Europe	Nürburgring
+1984-09-09	Italy	Autodromo Nazionale Monza
+1984-08-26	Netherlands	Circuit Park Zandvoort
+1984-08-19	Austria	Österreichring
+1984-08-05	Germany	Hockenheimring
+1984-07-22	Great-Britain	Brands Hatch Circuit
+1984-07-08	Dallas	Dallas Fair Park
+1984-06-24	Detroit	Detroit Street Circuit
+1984-06-17	Canada	Circuit Gilles-Villeneuve
+1984-06-03	Monaco	Circuit de Monaco
+1984-05-20	France	Circuit Dijon-Prenois
+1984-05-06	San-Marino	Autodromo Dino Ferrari
+1984-04-29	Belgium	Circuit Zolder
+1984-04-07	South-Africa	Kyalami Grand Prix Circuit
+1984-03-25	Brazil	Autódromo Internacional do Rio de Janeiro
+1983-10-15	South-Africa	Kyalami Grand Prix Circuit
+1983-09-25	Europe	Brands Hatch Circuit
+1983-09-11	Italy	Autodromo Nazionale Monza
+1983-08-28	Netherlands	Circuit Park Zandvoort
+1983-08-14	Austria	Österreichring
+1983-08-07	Germany	Hockenheimring
+1983-07-16	Great-Britain	Silverstone Circuit
+1983-06-12	Canada	Circuit Gilles-Villeneuve
+1983-06-05	Detroit	Detroit Street Circuit
+1983-05-22	Belgium	Circuit de Spa-Francorchamps
+1983-05-15	Monaco	Circuit de Monaco
+1983-05-01	San-Marino	Autodromo Dino Ferrari
+1983-04-17	France	Circuit Paul Ricard
+1983-03-27	Usa-West	Long Beach Street Circuit
+1983-03-13	Brazil	Autódromo Internacional do Rio de Janeiro
+1982-09-25	Las-Vegas	Caesars Palace
+1982-09-12	Italy	Autodromo Nazionale Monza
+1982-08-29	Switzerland	Circuit Dijon-Prenois
+1982-08-15	Austria	Österreichring
+1982-08-08	Germany	Hockenheimring
+1982-07-25	France	Circuit Paul Ricard
+1982-07-18	Great-Britain	Brands Hatch Circuit
+1982-07-03	Netherlands	Circuit Park Zandvoort
+1982-06-13	Canada	Circuit Gilles-Villeneuve
+1982-06-06	Detroit	Detroit Street Circuit
+1982-05-23	Monaco	Circuit de Monaco
+1982-05-09	Belgium	Circuit Zolder
+1982-04-25	San-Marino	Autodromo Dino Ferrari
+1982-04-04	Usa-West	Long Beach Street Circuit
+1982-03-21	Brazil	Autódromo Internacional do Rio de Janeiro
+1982-01-23	South-Africa	Kyalami Grand Prix Circuit
+1981-10-17	Las-Vegas	Caesars Palace
+1981-09-27	Canada	Circuit Île Notre-Dame
+1981-09-13	Italy	Autodromo Nazionale Monza
+1981-08-30	Netherlands	Circuit Park Zandvoort
+1981-08-16	Austria	Österreichring
+1981-08-02	Germany	Hockenheimring
+1981-07-18	Great-Britain	Silverstone Circuit
+1981-07-05	France	Circuit Dijon-Prenois
+1981-06-21	Spain	Circuito Permanente del Jarama
+1981-05-31	Monaco	Circuit de Monaco
+1981-05-17	Belgium	Circuit Zolder
+1981-05-03	San-Marino	Autodromo Dino Ferrari
+1981-04-12	Argentina	Autódromo Juan y Oscar Gálvez
+1981-03-29	Brazil	Autódromo Internacional do Rio de Janeiro
+1981-03-15	Usa-West	Long Beach Street Circuit
+1980-10-05	Usa-East	Watkins Glen International
+1980-09-28	Canada	Circuit Île Notre-Dame
+1980-09-14	Italy	Autodromo Dino Ferrari
+1980-08-31	Netherlands	Circuit Park Zandvoort
+1980-08-17	Austria	Österreichring
+1980-08-10	Germany	Hockenheimring
+1980-07-13	Great-Britain	Silverstone Circuit
+1980-06-29	France	Circuit Paul Ricard
+1980-05-18	Monaco	Circuit de Monaco
+1980-05-04	Belgium	Circuit Zolder
+1980-03-30	Usa-West	Long Beach Street Circuit
+1980-03-01	South-Africa	Kyalami Grand Prix Circuit
+1980-01-27	Brazil	Autódromo José Carlos Pace
+1980-01-13	Argentina	Autódromo Juan y Oscar Gálvez
+1979-10-07	Usa-East	Watkins Glen International
+1979-09-30	Canada	Circuit Île Notre-Dame
+1979-09-09	Italy	Autodromo Nazionale Monza
+1979-08-26	Netherlands	Circuit Park Zandvoort
+1979-08-12	Austria	Österreichring
+1979-07-29	Germany	Hockenheimring
+1979-07-14	Great-Britain	Silverstone Circuit
+1979-07-01	France	Circuit Dijon-Prenois
+1979-05-27	Monaco	Circuit de Monaco
+1979-05-13	Belgium	Circuit Zolder
+1979-04-29	Spain	Circuito Permanente del Jarama
+1979-04-08	Usa-West	Long Beach Street Circuit
+1979-03-03	South-Africa	Kyalami Grand Prix Circuit
+1979-02-04	Brazil	Autódromo José Carlos Pace
+1979-01-21	Argentina	Autódromo Juan y Oscar Gálvez
+1978-10-08	Canada	Circuit Île Notre-Dame
+1978-10-01	Usa-East	Watkins Glen International
+1978-09-10	Italy	Autodromo Nazionale Monza
+1978-08-27	Netherlands	Circuit Park Zandvoort
+1978-08-13	Austria	Österreichring
+1978-07-30	Germany	Hockenheimring
+1978-07-16	Great-Britain	Brands Hatch Circuit
+1978-07-02	France	Circuit Paul Ricard
+1978-06-17	Sweden	Scandinavian Raceway
+1978-06-04	Spain	Circuito Permanente del Jarama
+1978-05-21	Belgium	Circuit Zolder
+1978-05-07	Monaco	Circuit de Monaco
+1978-04-02	Usa-West	Long Beach Street Circuit
+1978-03-04	South-Africa	Kyalami Grand Prix Circuit
+1978-01-29	Brazil	Autódromo Internacional do Rio de Janeiro
+1978-01-15	Argentina	Autódromo Juan y Oscar Gálvez
+1977-10-23	Japan	Fuji Speedway
+1977-10-09	Canada	Mosport International Raceway
+1977-10-02	Usa-East	Watkins Glen International
+1977-09-11	Italy	Autodromo Nazionale Monza
+1977-08-28	Netherlands	Circuit Park Zandvoort
+1977-08-14	Austria	Österreichring
+1977-07-31	Germany	Hockenheimring
+1977-07-16	Great-Britain	Silverstone Circuit
+1977-07-03	France	Circuit Dijon-Prenois
+1977-06-19	Sweden	Scandinavian Raceway
+1977-06-05	Belgium	Circuit Zolder
+1977-05-22	Monaco	Circuit de Monaco
+1977-05-08	Spain	Circuito Permanente del Jarama
+1977-04-03	Usa-West	Long Beach Street Circuit
+1977-03-05	South-Africa	Kyalami Grand Prix Circuit
+1977-01-23	Brazil	Autódromo de Interlagos
+1977-01-09	Argentina	Autódromo Juan y Oscar Gálvez
+1976-10-24	Japan	Fuji Speedway
+1976-10-10	Usa-East	Watkins Glen International
+1976-10-03	Canada	Mosport International Raceway
+1976-09-12	Italy	Autodromo Nazionale Monza
+1976-08-29	Netherlands	Circuit Park Zandvoort
+1976-08-15	Austria	Österreichring
+1976-08-01	Germany	Nürburgring
+1976-07-18	Great-Britain	Brands Hatch Circuit
+1976-07-04	France	Circuit Paul Ricard
+1976-06-13	Sweden	Scandinavian Raceway
+1976-05-30	Monaco	Circuit de Monaco
+1976-05-16	Belgium	Circuit Zolder
+1976-05-02	Spain	Circuito Permanente del Jarama
+1976-03-28	Usa-West	Long Beach Street Circuit
+1976-03-06	South-Africa	Kyalami Grand Prix Circuit
+1976-01-25	Brazil	Autódromo de Interlagos
+1975-10-05	Usa	Watkins Glen International
+1975-09-07	Italy	Autodromo Nazionale Monza
+1975-08-17	Austria	Österreichring
+1975-08-03	Germany	Nürburgring
+1975-07-19	Great-Britain	Silverstone Circuit
+1975-07-06	France	Circuit Paul Ricard
+1975-06-22	Netherlands	Circuit Park Zandvoort
+1975-06-08	Sweden	Scandinavian Raceway
+1975-05-25	Belgium	Circuit Zolder
+1975-05-11	Monaco	Circuit de Monaco
+1975-04-27	Spain	Montjuïc Circuit
+1975-03-01	South-Africa	Kyalami Grand Prix Circuit
+1975-01-26	Brazil	Autódromo de Interlagos
+1975-01-12	Argentina	Autódromo Juan y Oscar Gálvez
+1974-10-06	Usa	Watkins Glen International
+1974-09-22	Canada	Mosport International Raceway
+1974-09-08	Italy	Autodromo Nazionale Monza
+1974-08-18	Austria	Österreichring
+1974-08-04	Germany	Nürburgring
+1974-07-20	Great-Britain	Brands Hatch Circuit
+1974-07-07	France	Circuit Dijon-Prenois
+1974-06-23	Netherlands	Circuit Park Zandvoort
+1974-06-09	Sweden	Scandinavian Raceway
+1974-05-26	Monaco	Circuit de Monaco
+1974-05-12	Belgium	Complexe Européen de Nivelles-Baulers
+1974-04-28	Spain	Circuito Permanente del Jarama
+1974-03-30	South-Africa	Kyalami Grand Prix Circuit
+1974-01-27	Brazil	Autódromo de Interlagos
+1974-01-13	Argentina	Autódromo Juan y Oscar Gálvez
+1973-10-07	Usa	Watkins Glen International
+1973-09-23	Canada	Mosport International Raceway
+1973-09-09	Italy	Autodromo Nazionale Monza
+1973-08-19	Austria	Österreichring
+1973-08-05	Germany	Nürburgring
+1973-07-29	Netherlands	Circuit Park Zandvoort
+1973-07-14	Great-Britain	Silverstone Circuit
+1973-07-01	France	Circuit Paul Ricard
+1973-06-17	Sweden	Scandinavian Raceway
+1973-06-03	Monaco	Circuit de Monaco
+1973-05-20	Belgium	Circuit Zolder
+1973-04-29	Spain	Montjuïc Circuit
+1973-03-03	South-Africa	Kyalami Grand Prix Circuit
+1973-02-11	Brazil	Autódromo de Interlagos
+1973-01-28	Argentina	Autódromo Juan y Oscar Gálvez
+1972-10-08	Usa	Watkins Glen International
+1972-09-24	Canada	Mosport International Raceway
+1972-09-10	Italy	Autodromo Nazionale Monza
+1972-08-13	Austria	Österreichring
+1972-07-30	Germany	Nürburgring
+1972-07-15	Great-Britain	Brands Hatch Circuit
+1972-07-02	France	Charade Circuit
+1972-06-04	Belgium	Complexe Européen de Nivelles-Baulers
+1972-05-14	Monaco	Circuit de Monaco
+1972-05-01	Spain	Circuito Permanente del Jarama
+1972-03-04	South-Africa	Kyalami Grand Prix Circuit
+1972-01-23	Argentina	Autódromo Juan y Oscar Gálvez
+1971-10-03	Usa	Watkins Glen International
+1971-09-19	Canada	Mosport International Raceway
+1971-09-05	Italy	Autodromo Nazionale Monza
+1971-08-15	Austria	Österreichring
+1971-08-01	Germany	Nürburgring
+1971-07-17	Great-Britain	Silverstone Circuit
+1971-07-04	France	Circuit Paul Ricard
+1971-06-20	Netherlands	Circuit Park Zandvoort
+1971-05-23	Monaco	Circuit de Monaco
+1971-04-18	Spain	Montjuïc Circuit
+1971-03-06	South-Africa	Kyalami Grand Prix Circuit
+1970-10-25	Mexico	Autódromo Hermanos Rodríguez
+1970-10-04	Usa	Watkins Glen International
+1970-09-20	Canada	Mont-Tremblant
+1970-09-06	Italy	Autodromo Nazionale Monza
+1970-08-16	Austria	Österreichring
+1970-08-02	Germany	Hockenheimring
+1970-07-18	Great-Britain	Brands Hatch Circuit
+1970-07-05	France	Charade Circuit
+1970-06-21	Netherlands	Circuit Park Zandvoort
+1970-06-07	Belgium	Circuit de Spa-Francorchamps
+1970-05-10	Monaco	Circuit de Monaco
+1970-04-19	Spain	Circuito Permanente del Jarama
+1970-03-07	South-Africa	Kyalami Grand Prix Circuit
+1969-10-19	Mexico	Autódromo Hermanos Rodríguez
+1969-10-05	Usa	Watkins Glen International
+1969-09-20	Canada	Mosport International Raceway
+1969-09-07	Italy	Autodromo Nazionale Monza
+1969-08-03	Germany	Nürburgring
+1969-07-19	Great-Britain	Silverstone Circuit
+1969-07-06	France	Charade Circuit
+1969-06-21	Netherlands	Circuit Park Zandvoort
+1969-05-18	Monaco	Circuit de Monaco
+1969-05-04	Spain	Montjuïc Circuit
+1969-03-01	South-Africa	Kyalami Grand Prix Circuit
+1968-11-03	Mexico	Autódromo Hermanos Rodríguez
+1968-10-06	Usa	Watkins Glen International
+1968-09-22	Canada	Mont-Tremblant
+1968-09-08	Italy	Autodromo Nazionale Monza
+1968-08-04	Germany	Nürburgring
+1968-07-20	Great-Britain	Brands Hatch Circuit
+1968-07-07	France	Rouen les Essarts
+1968-06-23	Netherlands	Circuit Park Zandvoort
+1968-06-09	Belgium	Circuit de Spa-Francorchamps
+1968-05-26	Monaco	Circuit de Monaco
+1968-05-12	Spain	Circuito Permanente del Jarama
+1968-01-01	South-Africa	Kyalami Grand Prix Circuit
+1967-10-22	Mexico	Autódromo Hermanos Rodríguez
+1967-10-01	Usa	Watkins Glen International
+1967-09-10	Italy	Autodromo Nazionale Monza
+1967-08-27	Canada	Mosport International Raceway
+1967-08-06	Germany	Nürburgring
+1967-07-15	Great-Britain	Silverstone Circuit
+1967-07-02	France	Bugatti Au Mans
+1967-06-18	Belgium	Circuit de Spa-Francorchamps
+1967-06-04	Netherlands	Circuit Park Zandvoort
+1967-05-07	Monaco	Circuit de Monaco
+1967-01-02	South-Africa	Kyalami Grand Prix Circuit
+1966-10-23	Mexico	Autódromo Hermanos Rodríguez
+1966-10-02	Usa	Watkins Glen International
+1966-09-04	Italy	Autodromo Nazionale Monza
+1966-08-07	Germany	Nürburgring
+1966-07-24	Netherlands	Circuit Park Zandvoort
+1966-07-16	Great-Britain	Brands Hatch Circuit
+1966-07-03	France	Circuit de Reims-Gueux
+1966-06-12	Belgium	Circuit de Spa-Francorchamps
+1966-05-22	Monaco	Circuit de Monaco
+1965-10-24	Mexico	Autódromo Hermanos Rodríguez
+1965-10-03	Usa	Watkins Glen International
+1965-09-12	Italy	Autodromo Nazionale Monza
+1965-08-01	Germany	Nürburgring
+1965-07-18	Netherlands	Circuit Park Zandvoort
+1965-07-10	Great-Britain	Silverstone Circuit
+1965-06-27	France	Charade Circuit
+1965-06-13	Belgium	Circuit de Spa-Francorchamps
+1965-05-30	Monaco	Circuit de Monaco
+1965-01-01	South-Africa	Prince George Circuit
+1964-10-25	Mexico	Autódromo Hermanos Rodríguez
+1964-10-04	Usa	Watkins Glen International
+1964-09-06	Italy	Autodromo Nazionale Monza
+1964-08-23	Austria	Zeltweg Airfield
+1964-08-02	Germany	Nürburgring
+1964-07-11	Great-Britain	Brands Hatch Circuit
+1964-06-28	France	Rouen les Essarts
+1964-06-14	Belgium	Circuit de Spa-Francorchamps
+1964-05-24	Netherlands	Circuit Park Zandvoort
+1964-05-10	Monaco	Circuit de Monaco
+1963-12-28	South-Africa	Prince George Circuit
+1963-10-27	Mexico	Autódromo Hermanos Rodríguez
+1963-10-06	Usa	Watkins Glen International
+1963-09-08	Italy	Autodromo Nazionale Monza
+1963-08-04	Germany	Nürburgring
+1963-07-20	Great-Britain	Silverstone Circuit
+1963-06-30	France	Circuit de Reims-Gueux
+1963-06-23	Netherlands	Circuit Park Zandvoort
+1963-06-09	Belgium	Circuit de Spa-Francorchamps
+1963-05-26	Monaco	Circuit de Monaco
+1962-12-29	South-Africa	Prince George Circuit
+1962-10-07	Usa	Watkins Glen International
+1962-09-16	Italy	Autodromo Nazionale Monza
+1962-08-05	Germany	Nürburgring
+1962-07-21	Great-Britain	Aintree Racecourse
+1962-07-08	France	Rouen les Essarts
+1962-06-17	Belgium	Circuit de Spa-Francorchamps
+1962-06-03	Monaco	Circuit de Monaco
+1962-05-20	Netherlands	Circuit Park Zandvoort
+1961-10-08	Usa	Watkins Glen International
+1961-09-10	Italy	Autodromo Nazionale Monza
+1961-08-06	Germany	Nürburgring
+1961-07-15	Great-Britain	Aintree Racecourse
+1961-07-02	France	Circuit de Reims-Gueux
+1961-06-18	Belgium	Circuit de Spa-Francorchamps
+1961-05-22	Netherlands	Circuit Park Zandvoort
+1961-05-14	Monaco	Circuit de Monaco
+1960-11-20	Usa	Riverside International Raceway
+1960-09-04	Italy	Autodromo Nazionale Monza
+1960-08-14	Portugal	Circuit da Boavista
+1960-07-16	Great-Britain	Silverstone Circuit
+1960-07-03	France	Circuit de Reims-Gueux
+1960-06-19	Belgium	Circuit de Spa-Francorchamps
+1960-06-06	Netherlands	Circuit Park Zandvoort
+1960-05-30	Indianapolis-500	Indianapolis Motor Speedway
+1960-05-29	Monaco	Circuit de Monaco
+1960-02-07	Argentina	Autódromo Juan y Oscar Gálvez
+1959-12-12	Usa	Sebring Raceway
+1959-09-13	Italy	Autodromo Nazionale Monza
+1959-08-23	Portugal	Monsanto Park
+1959-08-02	Germany	Automobil-Verkehrs und Übungs-Straße
+1959-07-18	Great-Britain	Aintree Racecourse
+1959-07-05	France	Circuit de Reims-Gueux
+1959-05-31	Netherlands	Circuit Park Zandvoort
+1959-05-30	Indianapolis-500	Indianapolis Motor Speedway
+1959-05-10	Monaco	Circuit de Monaco
+1958-10-19	Morocco	Ain-Diab Circuit
+1958-09-07	Italy	Autodromo Nazionale Monza
+1958-08-24	Portugal	Circuit da Boavista
+1958-08-03	Germany	Nürburgring
+1958-07-19	Great-Britain	Silverstone Circuit
+1958-07-06	France	Circuit de Reims-Gueux
+1958-06-15	Belgium	Circuit de Spa-Francorchamps
+1958-05-30	Indianapolis-500	Indianapolis Motor Speedway
+1958-05-26	Netherlands	Circuit Park Zandvoort
+1958-05-18	Monaco	Circuit de Monaco
+1958-01-19	Argentina	Autódromo Juan y Oscar Gálvez
+1957-09-08	Italy	Autodromo Nazionale Monza
+1957-08-18	Pescara	Pescara Circuit
+1957-08-04	Germany	Nürburgring
+1957-07-20	Great-Britain	Aintree Racecourse
+1957-07-07	France	Rouen les Essarts
+1957-05-30	Indianapolis-500	Indianapolis Motor Speedway
+1957-05-19	Monaco	Circuit de Monaco
+1957-01-13	Argentina	Autódromo Juan y Oscar Gálvez
+1956-09-02	Italy	Autodromo Nazionale Monza
+1956-08-05	Germany	Nürburgring
+1956-07-14	Great-Britain	Silverstone Circuit
+1956-07-01	France	Circuit de Reims-Gueux
+1956-06-03	Belgium	Circuit de Spa-Francorchamps
+1956-05-30	Indianapolis-500	Indianapolis Motor Speedway
+1956-05-13	Monaco	Circuit de Monaco
+1956-01-22	Argentina	Autódromo Juan y Oscar Gálvez
+1955-09-11	Italy	Autodromo Nazionale Monza
+1955-07-16	Great-Britain	Aintree Racecourse
+1955-06-19	Netherlands	Circuit Park Zandvoort
+1955-06-05	Belgium	Circuit de Spa-Francorchamps
+1955-05-30	Indianapolis-500	Indianapolis Motor Speedway
+1955-05-22	Monaco	Circuit de Monaco
+1955-01-16	Argentina	Autódromo 17 de Octubre
+1954-10-24	Spain	Circuit de Pedralbes
+1954-09-05	Italy	Autodromo Nazionale Monza
+1954-08-22	Switzerland	Bremgarten
+1954-08-01	Germany	Nürburgring
+1954-07-17	Great-Britain	Silverstone Circuit
+1954-07-04	France	Circuit de Reims-Gueux
+1954-06-20	Belgium	Circuit de Spa-Francorchamps
+1954-05-31	Indianapolis-500	Indianapolis Motor Speedway
+1954-01-17	Argentina	Autódromo 17 de Octubre
+1953-09-13	Italy	Autodromo Nazionale Monza
+1953-08-23	Switzerland	Bremgarten
+1953-08-02	Germany	Nürburgring
+1953-07-18	Great-Britain	Silverstone Circuit
+1953-07-05	France	Circuit de Reims-Gueux
+1953-06-21	Belgium	Circuit de Spa-Francorchamps
+1953-06-07	Netherlands	Circuit Park Zandvoort
+1953-05-30	Indianapolis-500	Indianapolis Motor Speedway
+1953-01-18	Argentina	Autódromo 17 de Octubre
+1952-09-07	Italy	Autodromo Nazionale Monza
+1952-08-17	Netherlands	Circuit Park Zandvoort
+1952-08-03	Germany	Nürburgring
+1952-07-19	Great-Britain	Silverstone Circuit
+1952-07-06	France	Rouen les Essarts
+1952-06-22	Belgium	Circuit de Spa-Francorchamps
+1952-05-30	Indianapolis-500	Indianapolis Motor Speedway
+1952-05-18	Switzerland	Bremgarten
+1951-10-28	Spain	Circuit de Pedralbes
+1951-09-16	Italy	Autodromo Nazionale Monza
+1951-07-29	Germany	Nürburgring
+1951-07-14	Great-Britain	Silverstone Circuit
+1951-07-01	France	Circuit de Reims-Gueux
+1951-06-17	Belgium	Circuit de Spa-Francorchamps
+1951-05-30	Indianapolis-500	Indianapolis Motor Speedway
+1951-05-27	Switzerland	Bremgarten
+1950-09-03	Italy	Autodromo Nazionale Monza
+1950-07-02	France	Circuit de Reims-Gueux
+1950-06-18	Belgium	Circuit de Spa-Francorchamps
+1950-06-04	Switzerland	Bremgarten
+1950-05-30	Indianapolis-500	Indianapolis Motor Speedway
+1950-05-21	Monaco	Circuit de Monaco
+1950-05-13	Great-Britain	Silverstone Circuit
