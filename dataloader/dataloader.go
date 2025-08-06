@@ -8,6 +8,7 @@ import (
 	"net/http"
 	"os"
 	"path/filepath"
+	"time"
 )
 
 func LoadData(file string) string {
@@ -27,7 +28,7 @@ func LoadData(file string) string {
 }
 
 func loadFileFromHTTP(filePath string) ([]byte, error) {
-	client := &http.Client{Timeout: 10}
+	client := &http.Client{Timeout: 5 * time.Second}
 	url := fmt.Sprintf("https://raw.githubusercontent.com/Ainaras/gostuff/main/data/%s", filePath)
 
 	resp, err := client.Get(url)
@@ -70,7 +71,13 @@ func loadFromCache(file string) ([]byte, error) {
 		return nil, fmt.Errorf("cache file does not exist")
 	}
 
-	content, err := os.ReadFile(cachePath)
+	f, err := os.Open(cachePath)
+	if err != nil {
+		return nil, err
+	}
+	defer f.Close()
+
+	content, err := io.ReadAll(io.LimitReader(f, 1024*1024)) // Limit to 1MB
 	if err != nil {
 		return nil, err
 	}
