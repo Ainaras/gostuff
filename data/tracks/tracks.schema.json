@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "circuits": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "location": { "type": "string" },
+          "country": { "type": "string" },
+          "layouts": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": { "type": "string" },
+                "type": {
+                  "type": "string",
+                  "enum": ["Street circuit", "Road circuit", "Oval", "Road course", "Combined road course", "Race circuit" ]
+                 },
+                "history": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "years": { "type": ["integer", "string"] },
+                      "length": { "type": "number" }
+                    },
+                    "required": ["years", "length"]
+                  }
+                }
+              },
+              "required": ["name", "history", "type"]
+            }
+          },
+          "names": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": { "type": "string" },
+                "years": { "type": "string" }
+              },
+              "required": ["name", "years"]
+            }
+          }
+        },
+        "required": ["name", "location", "country", "layouts"]
+      }
+    }
+  },
+  "required": ["circuits"]
+}
