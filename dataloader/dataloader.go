@@ -1,0 +1,5 @@
+package dataloader
+
+func LoadData() {
+
+}
