@@ -4,7 +4,7 @@ import "time"
 
 type Season struct {
 	Name  string
-	Races []Race
+	Races []RaceWithNumber
 }
 
 type Race struct {

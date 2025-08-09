@@ -14,26 +14,22 @@ func GetAllRaces(series string, startYear int16, endYear int16) []Race {
 }
 
 func GetAllRacesGroupedByYear(series string, startYear int16, endYear int16) map[int]Season {
-	races := GetAllRaces(series, startYear, endYear)
+	races := GetRacesWithAssignedNumbers(series, startYear, endYear)
 
 	var seasons = make(map[int]Season)
 	var year int
 	for _, race := range races {
-		year = race.Date.Year()
+		year = race.Race.Date.Year()
 		val, ok := seasons[year]
 		if ok {
 			val.Races = append(val.Races, race)
 			seasons[year] = val
 		} else {
 			s := Season{}
-			s.Name = strconv.Itoa(race.Date.Year())
-			s.Races = []Race{race}
+			s.Name = strconv.Itoa(race.Race.Date.Year())
+			s.Races = []RaceWithNumber{race}
 			seasons[year] = s
 		}
-	}
-	for key, season := range seasons {
-		season.Races = sortRacesByDate(season.Races)
-		seasons[key] = season
 	}
 	return seasons
 }
